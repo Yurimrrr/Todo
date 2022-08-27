@@ -33,26 +33,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yurim\\.nuget\\packages\\": {}
+    "C:\\Users\\yurim\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desenv\\Desenv_.NET\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectUniqueName": "C:\\Desenv\\.NET\\Todo\\Todo.Domain\\Todo.Domain.csproj",
       "projectName": "Todo.Domain",
-      "projectPath": "D:\\Desenv\\Desenv_.NET\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectPath": "C:\\Desenv\\.NET\\Todo\\Todo.Domain\\Todo.Domain.csproj",
       "packagesPath": "C:\\Users\\yurim\\.nuget\\packages\\",
-      "outputPath": "D:\\Desenv\\Desenv_.NET\\Todo\\Todo.Domain\\obj\\",
+      "outputPath": "C:\\Desenv\\.NET\\Todo\\Todo.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yurim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\yurim\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

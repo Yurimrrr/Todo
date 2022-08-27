@@ -21,13 +21,15 @@ public class CreateTodoHandlerTests
     {
         var handler = new TodoHandler(new FakeTodoRepository()); //Mock ou fake repository
         var result = (GenericCommandResult)handler.Handle(_invalidCommand);
-       // Assert.AreEqual(result.Success);
+       Assert.AreEqual(result.Success, false);
     }
 
     [TestMethod]
     public void Dado_um_comando_valido_deve_criar_a_tarefa()
     {
         var handler = new TodoHandler(new FakeTodoRepository()); //Mock ou fake repository
+        var result = (GenericCommandResult)handler.Handle(_validCommand);
+       Assert.AreEqual(result.Success, true);
         Assert.Fail();
     }
 

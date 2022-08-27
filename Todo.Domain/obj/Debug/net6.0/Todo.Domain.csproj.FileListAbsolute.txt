@@ -10,3 +10,15 @@ D:\Desenv\Desenv_.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
 D:\Desenv\Desenv_.NET\Todo\Todo.Domain\obj\Debug\net6.0\refint\Todo.Domain.dll
 D:\Desenv\Desenv_.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
 D:\Desenv\Desenv_.NET\Todo\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
+C:\Desenv\.NET\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.deps.json
+C:\Desenv\.NET\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.dll
+C:\Desenv\.NET\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\refint\Todo.Domain.dll
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
+C:\Desenv\.NET\Todo\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll

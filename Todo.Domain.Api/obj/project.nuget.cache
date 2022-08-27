@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wfPf6k11gu9vdLX5a9afPKop/zHZQNEQLwAinM4UjQAL0HWvmX+6w8tNg3CClIEwLWzF2MsjbQBuiXrZ/1VEA==",
+  "dgSpecHash": "MwxB6JzJ24//Gpb+Q0cZ2yvg4K7H3FJnc34oIb5a0HYhSfd1+3pvgTJbnwX7fOSVS9wJ21SgLsQQOQwipzCAbw==",
   "success": true,
-  "projectFilePath": "D:\\Desenv\\Desenv_.NET\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yurim\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Desenv\\.NET\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
