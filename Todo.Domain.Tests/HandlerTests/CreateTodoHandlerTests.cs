@@ -29,8 +29,7 @@ public class CreateTodoHandlerTests
     {
         var handler = new TodoHandler(new FakeTodoRepository()); //Mock ou fake repository
         var result = (GenericCommandResult)handler.Handle(_validCommand);
-       Assert.AreEqual(result.Success, true);
-        Assert.Fail();
+        Assert.AreEqual(result.Success, true);
     }
 
 
